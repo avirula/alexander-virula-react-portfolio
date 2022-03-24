@@ -1,6 +1,9 @@
 {
   "name": "alexander-virula-react-portfolio",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
   "description": "Personal portfolio app built in React",
   "scripts": {
     "preinstall": "npm set audit false",
